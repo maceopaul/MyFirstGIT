@@ -2,9 +2,15 @@
 
 # Date. 2022.02.27
 
+<<<<<<< HEAD
 ServerA CPU information
-1. CPU process
-2. CPU speed
-3. CPU thread
 
+=======
+1. CPU percent
+2. CPU speed
+3. CPU process
+4. CPU thread
+5. CPU handle
+6. CPU time
+>>>>>>> ServerA_CPU
 
