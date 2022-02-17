@@ -2,4 +2,9 @@
 
 # Date. 2022.02.27
 
-# Master
+ServerA CPU information
+1. CPU process
+2. CPU speed
+3. CPU thread
+
+
