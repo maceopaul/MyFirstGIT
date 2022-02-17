@@ -1,6 +1,3 @@
-ServerA status Report
+#Virtual CPU information
 
-Data. 2002.02.17
-
-#Server A Master
 
