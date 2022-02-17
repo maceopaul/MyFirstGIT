@@ -5,3 +5,7 @@
 1. CPU percent
 2. CPU speed
 3. CPU process
+4. CPU thread
+5. CPU handle
+6. CPU time
+
